@@ -1,0 +1,106 @@
+body {
+	background-size: cover;
+	position: relative;
+	top: 70px;
+}
+h1 {
+	position: relative;
+	top: -300px;
+}
+img {
+	position: relative;
+	top: 200px;
+    left: 250px;
+}
+summary {
+	margin-right:1000px;
+	font-size: 40px;
+}
+p {
+	background-color: #F0C76A;
+	margin-right:1000px;
+	position: relative;
+	
+	color: black;
+	font-size: 20px;
+	font-weight: bold;
+}
+
+a {
+  position: relative;
+  border: none;
+  outline: none;
+  padding: 10px 16px;
+  font-size: 60px;
+  top: -150px;
+  font-weight: bold;
+ }
+ #btn1, #btn2, #btn3{
+ 	cursor: grab;
+ }
+ #btn1 {
+ 	position: relative;
+ 	right: 110px;
+ }
+ #btn2 {
+ 	position: relative;
+ 	right: 20px;
+ }
+ #btn3 {
+ 	position: relative;
+ 	left: 80px;
+ }
+.grey{ 
+  color:#F2D284;
+  font-size: 80px;
+}
+
+#drinks{
+text-align: justify;
+text-align-last: justify;
+display: none;
+position: relative;
+left: 300px;
+top: -70px;
+}
+
+#salty{
+text-align: justify;
+text-align-last: justify;
+display: none;
+position: relative;
+left:565px;
+top:-70px;
+}
+
+#sweet{
+text-align: justify;
+text-align-last: justify;
+display: none;
+position: relative;
+left:850px;
+top:-70px;
+}
+#price, #but, #another{
+  cursor: grab;
+  background-color: #F0C76A; 
+  border: none;
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#mail, #num {
+	color: black;
+	font-size: 30px;
+	position:relative;
+	top: 400px;
+	left: 1000px;
+}
+#res {
+	font-size: 40px;
+}
+
